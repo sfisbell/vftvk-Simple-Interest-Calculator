@@ -1,4 +1,19 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {background-color:black;font-family:arial;color:white}
+p {text-indent: 70px;}
+h1{color:grey;font-family:verdana}
+.maindiv {background-color:white;
+color:black;
+width:500px;
+padding:20px;
+border-radius:25px;
+margin: auto;
+align:center
+}
+b {background-color: #FFFF00
+}
+br {margin-top: 2px;}
+tab {margin-left: 54px;}
+tab1 {margin-left: 18px;}
+tab2 {margin-left: 24px;}
+tab3 {margin-left: 70px;}
 
